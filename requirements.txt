@@ -9,8 +9,8 @@ types-requests==2.32.0.20250301
 better-proxy==1.1.5
 aiohttp-socks
 loguru
-fake-useragent==1.5.1
 colorama
+fake-useragent==1.5.1
 pydantic_core==2.16.3
 PySocks==1.7.1
 requests
